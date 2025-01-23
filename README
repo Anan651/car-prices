@@ -1,0 +1,21 @@
+# Car Price Prediction
+
+This project uses machine learning to predict car prices based on various features. It uses a linear regression model to perform the prediction and evaluates the model with metrics like Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared.
+
+## Requirements
+
+Install the necessary libraries by running:
+
+
+## Usage
+
+1. Download the `CarPrice_Assignment.csv` dataset.
+2. Place it in the same directory as `app.py`.
+3. Run the script using:
+
+
+## Output
+
+- Correlation matrix heatmap.
+- Evaluation metrics of the model.
+- Scatter plot comparing actual vs predicted car prices.
